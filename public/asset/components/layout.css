@@ -1,0 +1,33 @@
+.main {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #080200;
+    background-image: url("https://www.transparenttextures.com/patterns/concrete-wall-2.png");
+}
+
+.layout_box {
+    padding: 1rem;
+    background-image: linear-gradient(180deg, #480256 0%, #b941c4 100%);
+}
+
+.flex{
+    display: flex;
+    /* flex-wrap: wrap; */
+}
+
+.imgs {
+    width: 100px;
+}
+
+.error{
+    color: rgb(241, 144, 144);
+}
+.pointer{
+    cursor: pointer
+}
+.color_white{
+    color: #fff;
+}
